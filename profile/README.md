@@ -19,7 +19,7 @@ Shannon analyzes your source code, identifies attack vectors, and executes real 
 
 It targets injection, XSS, SSRF, and broken authentication/authorization, validating every finding with a reproducible proof-of-concept. If it can't exploit it, it doesn't report it.
 
-→ **[Get started](https://github.com/KeygraphHQ/shannon#-setup--usage-instructions)**
+→ **[Get started](https://github.com/KeygraphHQ/shannon#quick-start)**
 
 ---
 
@@ -31,10 +31,10 @@ It targets injection, XSS, SSRF, and broken authentication/authorization, valida
 
 ---
 
-### About the company
- 
-Keygraph is a security and compliance platform for modern engineering teams, covering application security and compliance automation. Shannon is the AppSec layer.
- 
-Shannon Lite (this repo) is the open source core. [Shannon Pro](https://github.com/KeygraphHQ/shannon/blob/main/SHANNON-PRO.md) is the full all-in-one AppSec platform that extends it with agentic SAST, SCA with reachability analysis, secrets detection, business logic testing, and CI/CD integration.
- 
+### About Keygraph
+
+Keygraph is the company behind Shannon. Shannon is our open source core: the standalone AI pentester in this org, free to run yourself.
+
+**[Keygraph Platform](https://keygraph.io)** is our commercial, enterprise-ready pentesting platform. It runs an enhanced Shannon continuously across your whole estate and closes the full AppSec lifecycle, extending the open source core with agentic SAST, SCA with reachability, secrets detection, business logic testing, CI/CD integration, finding management, and automated remediation.
+
 → [keygraph.io](https://keygraph.io)
