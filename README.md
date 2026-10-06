@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/keygraph-banner.png" alt="Keygraph. Continuous Agentic Pentesting. Built by the team behind Shannon, the open-source AI pentester." width="100%">
+<img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/keygraph-banner.png" alt="Keygraph. Continuous Agentic Pentesting. Built by the team behind Shannon, the open-source AI pentester." width="100%">
 
 <h3>We don't report what might be vulnerable. We prove what is.</h3>
 
 <p>Keygraph makes <a href="https://github.com/KeygraphHQ/shannon"><b>Shannon</b></a>, the open-source AI pentester, and the <a href="https://keygraph.io"><b>Keygraph platform</b></a>, continuous agentic pentesting for the enterprise.</p>
 
-<a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-shannon.png" height="40" alt="Shannon on GitHub"></a>&nbsp;&nbsp;
-<a href="https://keygraph.io"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-keygraph.png" height="40" alt="keygraph.io"></a>&nbsp;&nbsp;
-<a href="https://discord.gg/keygraph-community"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-discord.png" height="40" alt="Join the Discord"></a>
+<a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-shannon.png" height="40" alt="Shannon on GitHub"></a>&nbsp;&nbsp;
+<a href="https://keygraph.io"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-keygraph.png" height="40" alt="keygraph.io"></a>&nbsp;&nbsp;
+<a href="https://discord.gg/keygraph-community"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-discord.png" height="40" alt="Join the Discord"></a>
 
 </div>
 
 <br>
 <br>
 
-<h2><a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/shannon-logo.png" height="34" alt="Shannon"></a></h2>
+<h2><a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/shannon-logo.png" height="34" alt="Shannon"></a></h2>
 
 [![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=flat&logo=github&label=stars&labelColor=191E1D&color=D05121)](https://github.com/KeygraphHQ/shannon)
 [![Latest release](https://img.shields.io/github/v/release/KeygraphHQ/shannon?style=flat&label=release&labelColor=191E1D&color=D05121)](https://github.com/KeygraphHQ/shannon/releases)
@@ -48,8 +48,8 @@ AppSec and pentesting, on one platform. The Keygraph platform runs an enterprise
 
 **Deployment.** Cloud-hosted, self-hosted, or fully air-gapped. You choose the models, always with your own key.
 
-<a href="https://cal.com/team/keygraph/keygraph-technical-demo"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-demo.png" height="40" alt="Schedule a technical demo"></a>&nbsp;&nbsp;
-<a href="https://keygraph.io/pricing"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-plans.png" height="40" alt="Compare plans"></a>
+<a href="https://cal.com/team/keygraph/keygraph-technical-demo"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-demo.png" height="40" alt="Schedule a technical demo"></a>&nbsp;&nbsp;
+<a href="https://keygraph.io/pricing"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-plans.png" height="40" alt="Compare plans"></a>
 
 U.S. nonprofits and pre-Series-A startups can apply to the [Community Program](https://keygraph.io/community-program) to run Keygraph Pro at no cost.
 
