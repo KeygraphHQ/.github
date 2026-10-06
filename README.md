@@ -13,6 +13,7 @@
 </div>
 
 <br>
+<br>
 
 <h2><a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/shannon-logo.png" height="34" alt="Shannon"></a></h2>
 
@@ -33,6 +34,8 @@ npx @keygraph/shannon@latest
 
 [Read the docs](https://keygraph.io/docs/) · [Quick start](https://keygraph.io/docs/tutorials/quick-start/) · [Shannon 3.0 benchmark](https://keygraph.io/shannon-benchmark)
 
+<br>
+
 ## The Keygraph platform
 
 AppSec and pentesting, on one platform. The Keygraph platform runs an enterprise-hardened build of Shannon continuously across your repositories, with the full AppSec suite around it.
@@ -45,9 +48,12 @@ AppSec and pentesting, on one platform. The Keygraph platform runs an enterprise
 
 **Deployment.** Cloud-hosted, self-hosted, or fully air-gapped. You choose the models, always with your own key.
 
-**[Schedule a technical demo →](https://cal.com/team/keygraph/keygraph-technical-demo)** · [Compare plans](https://keygraph.io/pricing) 
+<a href="https://cal.com/team/keygraph/keygraph-technical-demo"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-demo.png" height="40" alt="Schedule a technical demo"></a>&nbsp;&nbsp;
+<a href="https://keygraph.io/pricing"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/button-plans.png" height="40" alt="Compare plans"></a>
 
 U.S. nonprofits and pre-Series-A startups can apply to the [Community Program](https://keygraph.io/community-program) to run Keygraph Pro at no cost.
+
+<br>
 
 ## Community
 
