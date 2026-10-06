@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/keygraph-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/keygraph-banner-light.png">
-  <img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/keygraph-banner-light.png" alt="Keygraph. Continuous Agentic Pentesting. Built by the team behind Shannon, the open-source AI pentester." width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/keygraph-banner.png" alt="Keygraph. Continuous Agentic Pentesting. Built by the team behind Shannon, the open-source AI pentester." width="100%">
 
 <h3>We don't report what might be vulnerable. We prove what is.</h3>
 
@@ -18,7 +14,7 @@
 
 <br>
 
-## Shannon
+<h2><a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/profile/assets/shannon-logo.png" height="34" alt="Shannon"></a></h2>
 
 [![GitHub stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=flat&logo=github&label=stars&labelColor=191E1D&color=D05121)](https://github.com/KeygraphHQ/shannon)
 [![Latest release](https://img.shields.io/github/v/release/KeygraphHQ/shannon?style=flat&label=release&labelColor=191E1D&color=D05121)](https://github.com/KeygraphHQ/shannon/releases)
