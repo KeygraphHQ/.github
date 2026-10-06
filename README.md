@@ -31,8 +31,6 @@ npx @keygraph/shannon@latest
 
 **Reports for people and for tools.** PDF and Markdown for your team, JSON and SARIF 2.1.0 for code scanning and security dashboards.
 
-**Open source** under AGPL-3.0, with commercial licensing available through [shannon@keygraph.io](mailto:shannon@keygraph.io).
-
 [Read the docs](https://keygraph.io/docs/) · [Quick start](https://keygraph.io/docs/tutorials/quick-start/) · [Shannon 3.0 benchmark](https://keygraph.io/shannon-benchmark)
 
 ## The Keygraph platform
@@ -47,19 +45,13 @@ AppSec and pentesting, on one platform. The Keygraph platform runs an enterprise
 
 **Deployment.** Cloud-hosted, self-hosted, or fully air-gapped. You choose the models, always with your own key.
 
-**Governance.** SSO, SCIM, RBAC, audit logs, Jira sync, and SOC 2 Type II.
-
-**[Schedule a technical demo →](https://cal.com/team/keygraph/keygraph-technical-demo)** · [Compare plans](https://keygraph.io/pricing) · [Shannon and the platform, side by side](https://github.com/KeygraphHQ/shannon/blob/main/docs/keygraph-platform.md)
+**[Schedule a technical demo →](https://cal.com/team/keygraph/keygraph-technical-demo)** · [Compare plans](https://keygraph.io/pricing) 
 
 U.S. nonprofits and pre-Series-A startups can apply to the [Community Program](https://keygraph.io/community-program) to run Keygraph Pro at no cost.
 
 ## Community
 
 **Discord.** Questions, setup help, and Shannon news. [Join the server](https://discord.gg/keygraph-community)
-
-**Office hours.** Every Thursday at 10:00 AM PT (US/EU) and 2:00 PM IST (Asia). [Book a slot](https://cal.com/george-flores-keygraph/shannon-community-office-hours)
-
-**Bugs and ideas.** [Open an issue](https://github.com/KeygraphHQ/shannon/issues) or [start a discussion](https://github.com/KeygraphHQ/shannon/discussions).
 
 <br>
 
