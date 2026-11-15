@@ -4,10 +4,10 @@
 
 <h3>We don't report what might be vulnerable. We prove what is.</h3>
 
-<p>Keygraph makes <a href="https://github.com/KeygraphHQ/shannon"><b>Shannon</b></a>, the open-source AI pentester, and the <a href="https://keygraph.io"><b>Keygraph platform</b></a>, continuous agentic pentesting for the enterprise.</p>
+<p>Keygraph makes <a href="https://github.com/KeygraphHQ/shannon"><b>Shannon</b></a>, the open-source AI pentester, and the <a href="https://keygraph.io/?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_intro"><b>Keygraph platform</b></a>, continuous agentic pentesting for the enterprise.</p>
 
 <a href="https://github.com/KeygraphHQ/shannon"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-shannon.png" height="40" alt="Shannon on GitHub"></a>&nbsp;&nbsp;
-<a href="https://keygraph.io"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-keygraph.png" height="40" alt="keygraph.io"></a>&nbsp;&nbsp;
+<a href="https://keygraph.io/?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_header_button"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-keygraph.png" height="40" alt="keygraph.io"></a>&nbsp;&nbsp;
 <a href="https://discord.gg/keygraph-community"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-discord.png" height="40" alt="Join the Discord"></a>
 
 </div>
@@ -32,7 +32,7 @@ npx @keygraph/shannon@latest
 
 **Reports for people and for tools.** PDF and Markdown for your team, JSON and SARIF 2.1.0 for code scanning and security dashboards.
 
-[Read the docs](https://keygraph.io/docs/) · [Quick start](https://keygraph.io/docs/tutorials/quick-start/) · [Shannon 3.0 benchmark](https://keygraph.io/shannon-benchmark)
+[Read the docs](https://keygraph.io/docs/?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_docs) · [Quick start](https://keygraph.io/docs/tutorials/quick-start/?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_quickstart) · [Shannon 3.0 benchmark](https://keygraph.io/shannon-benchmark?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_benchmark)
 
 <br>
 
@@ -49,9 +49,9 @@ AppSec and pentesting, on one platform. The Keygraph platform runs an enterprise
 **Deployment.** Cloud-hosted, self-hosted, or fully air-gapped. You choose the models, always with your own key.
 
 <a href="https://cal.com/team/keygraph/keygraph-technical-demo"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-demo.png" height="40" alt="Schedule a technical demo"></a>&nbsp;&nbsp;
-<a href="https://keygraph.io/pricing"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-plans.png" height="40" alt="Compare plans"></a>
+<a href="https://keygraph.io/pricing?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_pricing_button"><img src="https://raw.githubusercontent.com/KeygraphHQ/.github/main/assets/button-plans.png" height="40" alt="Compare plans"></a>
 
-U.S. nonprofits and pre-Series-A startups can apply to the [Community Program](https://keygraph.io/community-program) to run Keygraph Pro at no cost.
+U.S. nonprofits and pre-Series-A startups can apply to the [Community Program](https://keygraph.io/community-program?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_community_program) to run Keygraph Pro at no cost.
 
 <br>
 
@@ -65,6 +65,6 @@ U.S. nonprofits and pre-Series-A startups can apply to the [Community Program](h
 
 <sub>Shannon runs real exploits. Use it only on applications you own or have written permission to test.</sub>
 
-<a href="https://keygraph.io">keygraph.io</a> · <a href="https://x.com/KeygraphHQ">X</a> · <a href="https://www.linkedin.com/company/keygraph/">LinkedIn</a> · <a href="https://discord.gg/keygraph-community">Discord</a>
+<a href="https://keygraph.io/?utm_source=github&utm_medium=referral&utm_campaign=shannon_oss_2026q4&utm_content=org_readme_footer">keygraph.io</a> · <a href="https://x.com/KeygraphHQ">X</a> · <a href="https://www.linkedin.com/company/keygraph/">LinkedIn</a> · <a href="https://discord.gg/keygraph-community">Discord</a>
 
 </div>
